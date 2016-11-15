@@ -1,0 +1,21 @@
+{
+  "name": "answer-api",
+  "version": "0.0.1",
+  "description": "A Koa 2 app providing a backend layer to ft-interactive/answers",
+  "main": "index.js",
+  "author": "Ændrew Rininsland <andrew.rininsland@ft.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "eslint": "^3.10.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.7.1",
+    "koa": "next",
+    "koa-router": "next",
+    "pg": "^6.1.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.25.0"
+  }
+}
