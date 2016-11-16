@@ -2,7 +2,7 @@
   "name": "answer-api",
   "version": "0.0.1",
   "description": "A Koa 2 app providing a backend layer to ft-interactive/answers",
-  "main": "index.js",
+  "main": "lib/index.js",
   "author": "Ændrew Rininsland <andrew.rininsland@ft.com>",
   "license": "MIT",
   "dependencies": {
@@ -13,9 +13,19 @@
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.7.1",
     "koa": "next",
+    "koa-bodyparser": "next",
+    "koa-convert": "^1.2.0",
+    "koa-generic-session": "^1.11.3",
+    "koa-passport": "next",
     "koa-router": "next",
+    "passport-google-oauth": "^1.0.0",
     "pg": "^6.1.0",
     "pg-hstore": "^2.3.2",
     "sequelize": "^3.25.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6"
   }
 }
