@@ -4,6 +4,14 @@
     mocha: true,
   },
   rules: {
+    'import/no-extraneous-dependencies': [
+      'error',
+      {
+        'devDependencies': ['**/*.integration.js', '**/*.spec.js'],
+        'optionalDependencies': false,
+        'peerDependencies': false
+      }
+    ],
     'consistent-return': 0,
     'no-else-return': 0,
     'no-bitwise': 0,
