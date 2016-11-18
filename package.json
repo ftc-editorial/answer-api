@@ -7,9 +7,10 @@
   "license": "MIT",
   "scripts": {
     "start": "node --harmony lib/index.js",
-    "dev": "NODE_ENV='development' nodemon -w lib/ --exec node --harmony lib/index.js"
+    "dev": "NODE_ENV=development SEED_DB=true NODE_DEBUG=true nodemon -w lib/ --exec node --harmony lib/index.js"
   },
   "dependencies": {
+    "chalk": "^1.1.3",
     "dotenv": "^2.0.0",
     "eslint": "^3.10.1",
     "eslint-config-airbnb": "^13.0.0",
@@ -19,7 +20,7 @@
     "koa": "next",
     "koa-bodyparser": "next",
     "koa-convert": "^1.2.0",
-    "koa-generic-session": "aendrew/generic-session",
+    "koa-generic-session": "^1.11.3",
     "koa-passport": "next",
     "koa-router": "next",
     "passport-google-oauth": "^1.0.0",
