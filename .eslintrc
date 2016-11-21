@@ -7,7 +7,7 @@
     'import/no-extraneous-dependencies': [
       'error',
       {
-        'devDependencies': ['**/*.integration.js', '**/*.spec.js'],
+        'devDependencies': ['*/**/*.integration.js', '*/**/*.spec.js'],
         'optionalDependencies': false,
         'peerDependencies': false
       }

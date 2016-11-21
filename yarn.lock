@@ -1553,6 +1553,10 @@ sinon:
     samsam "1.1.2"
     util ">=0.10.3 <1"
 
+sinon-chai:
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/sinon-chai/-/sinon-chai-2.8.0.tgz#432a9bbfd51a6fc00798f4d2526a829c060687ac"
+
 slice-ansi@0.0.4:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/slice-ansi/-/slice-ansi-0.0.4.tgz#edbf8903f66f7ce2f8eafd6ceed65e264c831b35"
@@ -1619,12 +1623,18 @@ superagent@^2.0.0:
     qs "^6.1.0"
     readable-stream "^2.0.5"
 
-supertest:
+supertest, supertest@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/supertest/-/supertest-2.0.1.tgz#a058081d788f1515d4700d7502881e6b759e44cd"
   dependencies:
     methods "1.x"
     superagent "^2.0.0"
+
+supertest-koa-agent:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/supertest-koa-agent/-/supertest-koa-agent-0.3.0.tgz#38342eeafe84348f0c72986b5b8cfd0eb8cb2de7"
+  dependencies:
+    supertest "^2.0.0"
 
 supports-color@^2.0.0:
   version "2.0.0"
