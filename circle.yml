@@ -1,3 +1,12 @@
 machine:
+  environment:
+    DB_USER: "ubuntu"
+    DB_PASS: ""
+    DB_HOST: "127.0.0.1"
+    DB_PORT: "5432"
+    DB_NAME: "circle_test"
+    GOOGLE_CLIENT_ID: "1234"
+    GOOGLE_CLIENT_SECRET: "4321"
+    NODE_ENV: "test"
   node:
     version: 7
