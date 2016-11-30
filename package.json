@@ -5,6 +5,9 @@
   "main": "lib/index.js",
   "author": "Ændrew Rininsland <andrew.rininsland@ft.com>",
   "license": "MIT",
+  "engines": {
+    "node": "7.1.0"
+  },
   "scripts": {
     "start": "node --harmony lib/index.js",
     "dev": "NODE_ENV=development SEED_DB=true NODE_DEBUG=true nodemon -w lib/ --exec node --harmony lib/index.js",
