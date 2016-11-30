@@ -8,11 +8,13 @@
   "scripts": {
     "start": "node --harmony lib/index.js",
     "dev": "NODE_ENV=development SEED_DB=true NODE_DEBUG=true nodemon -w lib/ --exec node --harmony lib/index.js",
+    "seed-test-data": "NODE_ENV=development SEED_DB=true NODE_DEBUG=true node --harmony write-test-data.js",
     "test:unit": "mocha --harmony lib/**/*.spec.js",
     "test:integration": "NODE_ENV=development mocha --harmony lib/**/*.integration.js",
     "test": "npm run test:unit && npm run test:integration"
   },
   "dependencies": {
+    "axios": "^0.15.3",
     "chalk": "^1.1.3",
     "dotenv": "^2.0.0",
     "eslint": "^3.10.1",
