@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "node --harmony lib/index.js",
-    "dev": "NODE_ENV=development SEED_DB=true NODE_DEBUG=true nodemon -w lib/ --exec node --harmony lib/index.js",
+    "dev": "NODE_ENV=development SEED_DB=true NODE_DEBUG=true USE_TEST_DATA=true  nodemon -w lib/ --exec node --harmony lib/index.js",
     "seed-test-data": "NODE_ENV=development SEED_DB=true NODE_DEBUG=true node --harmony write-test-data.js",
     "test:unit": "mocha --harmony lib/**/*.spec.js",
     "test:integration": "NODE_ENV=development mocha --harmony lib/**/*.integration.js",
