@@ -18,7 +18,7 @@
     'no-param-reassign': 0,
     'no-console': 0, // Maybe add better logging, turn on again
     'comma-dangle': ["error", {
-        "arrays": "always",
+        "arrays": "only-multiline",
         "objects": "only-multiline",
         "imports": "ignore",
         "exports": "ignore",

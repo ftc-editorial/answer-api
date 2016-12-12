@@ -23,26 +23,22 @@ module.exports = async function seedPerils() {
     }).spread(i => i);
 
     const qs = await Promise.all(
-      SURVEY_QUESTIONS.map(async (q) => {
-        const res = await Question.findCreateFind({
-          where: {
-            text: q.text,
-            projectId: p.id,
-          },
-          defaults: {
-            text: q.text,
-            answer: q.answer,
-          },
-        })
-        .spread(i => i); // findOrCreate returns an array.
-
-        res.setProject(p);
-
-        return res;
-      })
-
+      SURVEY_QUESTIONS.map(async q => await (
+          await Question.findCreateFind({
+            where: {
+              text: q.text,
+              projectId: p.id,
+            },
+            defaults: {
+              text: q.text,
+              answer: q.answer,
+            },
+          })
+          .spread(i => i))
+        .setProject(p)
+      )
     );
-    console.log(BATCH_2622312_DATA.filter(r => !r.reject).length);
+
     await BATCH_2622312_DATA.filter(r => !r.reject).map(async r => await Promise.all(
       qs.map(async (q, i) => await (await Response.findCreateFind({
         where: {
@@ -50,7 +46,7 @@ module.exports = async function seedPerils() {
           questionId: q.id,
         },
         defaults: {
-          value: r.Answer[`q${i}`],
+          value: r.Answer[`q${i + 1}`],
           submitted: new Date('2016-12-09T00:00:00'),
           metadata: r,
         },
