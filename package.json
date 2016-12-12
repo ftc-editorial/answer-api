@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "node --harmony lib/index.js",
-    "dev": "NODE_ENV=development SEED_DB=true NODE_DEBUG=true USE_TEST_DATA=true  nodemon -w lib/ --exec node --harmony lib/index.js",
+    "dev": "NODE_ENV=development SEED_DB=true NODE_DEBUG=true USE_TEST_DATA=false  nodemon -w lib/ --exec node --harmony lib/index.js",
     "seed-test-data": "NODE_ENV=development SEED_DB=true NODE_DEBUG=true node --harmony write-test-data.js",
     "test:unit": "mocha --harmony lib/**/*.spec.js",
     "test:integration": "NODE_ENV=development mocha --harmony lib/**/*.integration.js",
@@ -25,6 +25,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.7.1",
+    "glob": "^7.1.1",
     "koa": "next",
     "koa-bodyparser": "next",
     "koa-convert": "^1.2.0",
@@ -34,11 +35,12 @@
     "passport-google-oauth": "^1.0.0",
     "pg": "^6.1.0",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^3.25.0"
+    "sequelize": "^3.27.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "latest",
+    "nodemon": "^1.11.0",
     "proxyquire": "^1.7.10",
     "sinon": "^1.17.6",
     "sinon-chai": "^2.8.0",

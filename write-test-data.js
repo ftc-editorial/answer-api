@@ -1,9 +1,4 @@
-if (process.NODE_ENV === 'development') {
-  require('dotenv').config();
-}
-
-require('./lib/env');
-
+#!/usr/local/env node
 const seed = require('./lib/seed');
 
-seed({ force: true, log: true, useTestData: true });
+seed({ force: true, log: true, useTestData: false });
