@@ -32,6 +32,8 @@ module.exports = async function seedPerils() {
             defaults: {
               text: q.text,
               answer: q.answer,
+              options: q.options,
+              meta: q.meta,
             },
           })
           .spread(i => i))
@@ -39,16 +41,16 @@ module.exports = async function seedPerils() {
       )
     );
 
-    await BATCH_2622312_DATA.filter(r => !r.reject).map(async r => await Promise.all(
+    return BATCH_2622312_DATA.filter(r => !r.reject).map(async r => await Promise.all(
       qs.map(async (q, i) => await (await Response.findCreateFind({
         where: {
-          'metadata.HITId': r.HITId,
+          'meta.HITId': r.HITId,
           questionId: q.id,
         },
         defaults: {
           value: r.Answer[`q${i + 1}`],
           submitted: new Date('2016-12-09T00:00:00'),
-          metadata: r,
+          meta: r,
         },
       }).spread(inst => inst)).setQuestion(q))));
   } catch (e) {

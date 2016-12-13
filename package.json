@@ -26,6 +26,7 @@
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.7.1",
     "glob": "^7.1.1",
+    "kcors": "^2.2.0",
     "koa": "next",
     "koa-bodyparser": "next",
     "koa-convert": "^1.2.0",
