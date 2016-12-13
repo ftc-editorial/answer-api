@@ -27,7 +27,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Argentina",
+   "Country": "Argentina",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -76,7 +76,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Argentina",
+   "Country": "Argentina",
    "Answer": {
       "q1": 150,
       "q2": 165,
@@ -125,7 +125,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Argentina",
+   "Country": "Argentina",
    "Answer": {
       "q1": 10,
       "q2": 12,
@@ -174,7 +174,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Argentina",
+   "Country": "Argentina",
    "Answer": {
       "q1": 50,
       "q2": 75,
@@ -223,7 +223,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Argentina",
+   "Country": "Argentina",
    "Answer": {
       "q1": 40,
       "q2": 50,
@@ -272,7 +272,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Argentina",
+   "Country": "Argentina",
    "Answer": {
       "q1": 80,
       "q2": 120,
@@ -321,7 +321,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Argentina",
+   "Country": "Argentina",
    "Answer": {
       "q1": 45,
       "q2": 65,
@@ -370,7 +370,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Argentina",
+   "Country": "Argentina",
    "Answer": {
       "q1": 40,
       "q2": 60,
@@ -419,7 +419,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Argentina",
+   "Country": "Argentina",
    "Answer": {
       "q1": 40,
       "q2": 45,
@@ -468,7 +468,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Australia",
+   "Country": "Australia",
    "Answer": {
       "q1": 170,
       "q2": 200,
@@ -517,7 +517,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Australia",
+   "Country": "Australia",
    "Answer": {
       "q1": 20,
       "q2": 25,
@@ -566,7 +566,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Australia",
+   "Country": "Australia",
    "Answer": {
       "q1": 24,
       "q2": 26,
@@ -615,7 +615,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Australia",
+   "Country": "Australia",
    "Answer": {
       "q1": 12,
       "q2": 13,
@@ -664,7 +664,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Australia",
+   "Country": "Australia",
    "Answer": {
       "q1": 20,
       "q2": 30,
@@ -713,7 +713,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Australia",
+   "Country": "Australia",
    "Answer": {
       "q1": 12,
       "q2": 15,
@@ -762,7 +762,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Australia",
+   "Country": "Australia",
    "Answer": {
       "q1": 5,
       "q2": 7,
@@ -811,7 +811,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Australia",
+   "Country": "Australia",
    "Answer": {
       "q1": 23,
       "q2": 35,
@@ -860,7 +860,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Australia",
+   "Country": "Australia",
    "Answer": {
       "q1": 23,
       "q2": 46,
@@ -909,7 +909,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Belgium",
+   "Country": "Belgium",
    "Answer": {
       "q1": 12,
       "q2": 15,
@@ -958,7 +958,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Belgium",
+   "Country": "Belgium",
    "Answer": {
       "q1": 16,
       "q2": 20,
@@ -1007,7 +1007,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Belgium",
+   "Country": "Belgium",
    "Answer": {
       "q1": 11,
       "q2": 22,
@@ -1056,7 +1056,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Belgium",
+   "Country": "Belgium",
    "Answer": {
       "q1": 14,
       "q2": 17,
@@ -1105,7 +1105,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Belgium",
+   "Country": "Belgium",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -1154,7 +1154,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Belgium",
+   "Country": "Belgium",
    "Answer": {
       "q1": 5,
       "q2": 0,
@@ -1203,7 +1203,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Belgium",
+   "Country": "Belgium",
    "Answer": {
       "q1": 3,
       "q2": 3,
@@ -1252,7 +1252,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Belgium",
+   "Country": "Belgium",
    "Answer": {
       "q1": 11,
       "q2": 12,
@@ -1301,7 +1301,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Belgium",
+   "Country": "Belgium",
    "Answer": {
       "q1": 3,
       "q2": 10,
@@ -1350,7 +1350,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Brazil",
+   "Country": "Brazil",
    "Answer": {
       "q1": 160,
       "q2": 250,
@@ -1399,7 +1399,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Brazil",
+   "Country": "Brazil",
    "Answer": {
       "q1": 150,
       "q2": 210,
@@ -1448,7 +1448,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Brazil",
+   "Country": "Brazil",
    "Answer": {
       "q1": 90,
       "q2": 110,
@@ -1497,7 +1497,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Brazil",
+   "Country": "Brazil",
    "Answer": {
       "q1": 1,
       "q2": 2,
@@ -1546,7 +1546,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Brazil",
+   "Country": "Brazil",
    "Answer": {
       "q1": 89,
       "q2": 98,
@@ -1595,7 +1595,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Brazil",
+   "Country": "Brazil",
    "Answer": {
       "q1": 220,
       "q2": 300,
@@ -1644,7 +1644,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Brazil",
+   "Country": "Brazil",
    "Answer": {
       "q1": 250,
       "q2": 280,
@@ -1693,7 +1693,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Brazil",
+   "Country": "Brazil",
    "Answer": {
       "q1": 200,
       "q2": 400,
@@ -1742,7 +1742,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Brazil",
+   "Country": "Brazil",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -1791,7 +1791,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Canada",
+   "Country": "Canada",
    "Answer": {
       "q1": 30,
       "q2": 55,
@@ -1840,7 +1840,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Canada",
+   "Country": "Canada",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -1889,7 +1889,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Canada",
+   "Country": "Canada",
    "Answer": {
       "q1": 200,
       "q2": 225,
@@ -1938,7 +1938,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Canada",
+   "Country": "Canada",
    "Answer": {
       "q1": 5,
       "q2": 5,
@@ -1987,7 +1987,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Canada",
+   "Country": "Canada",
    "Answer": {
       "q1": 30,
       "q2": 58,
@@ -2036,7 +2036,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Canada",
+   "Country": "Canada",
    "Answer": {
       "q1": 45,
       "q2": 60,
@@ -2085,7 +2085,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Canada",
+   "Country": "Canada",
    "Answer": {
       "q1": 32,
       "q2": 45,
@@ -2134,7 +2134,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Canada",
+   "Country": "Canada",
    "Answer": {
       "q1": 35,
       "q2": 50,
@@ -2183,7 +2183,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Canada",
+   "Country": "Canada",
    "Answer": {
       "q1": 38,
       "q2": 45,
@@ -2232,7 +2232,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Chile",
+   "Country": "Chile",
    "Answer": {
       "q1": 1,
       "q2": 1,
@@ -2281,7 +2281,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Chile",
+   "Country": "Chile",
    "Answer": {
       "q1": 10,
       "q2": 10,
@@ -2330,7 +2330,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Chile",
+   "Country": "Chile",
    "Answer": {
       "q1": 18,
       "q2": 34,
@@ -2379,7 +2379,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Chile",
+   "Country": "Chile",
    "Answer": {
       "q1": 18,
       "q2": 32,
@@ -2428,7 +2428,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Chile",
+   "Country": "Chile",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -2477,7 +2477,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Chile",
+   "Country": "Chile",
    "Answer": {
       "q1": 17,
       "q2": 23,
@@ -2526,7 +2526,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Chile",
+   "Country": "Chile",
    "Answer": {
       "q1": 18,
       "q2": 25,
@@ -2575,7 +2575,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Chile",
+   "Country": "Chile",
    "Answer": {
       "q1": 76,
       "q2": 84,
@@ -2624,7 +2624,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Chile",
+   "Country": "Chile",
    "Answer": {
       "q1": 18,
       "q2": 21,
@@ -2673,7 +2673,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "China",
+   "Country": "China",
    "Answer": {
       "q1": 800,
       "q2": 600,
@@ -2722,7 +2722,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "China",
+   "Country": "China",
    "Answer": {
       "q1": 1600,
       "q2": 2000,
@@ -2771,7 +2771,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "China",
+   "Country": "China",
    "Answer": {
       "q1": 900,
       "q2": 999,
@@ -2820,7 +2820,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "China",
+   "Country": "China",
    "Answer": {
       "q1": 2500,
       "q2": 3000,
@@ -2869,7 +2869,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "China",
+   "Country": "China",
    "Answer": {
       "q1": 1500,
       "q2": 1800,
@@ -2918,7 +2918,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "China",
+   "Country": "China",
    "Answer": {
       "q1": 1000,
       "q2": 1200,
@@ -2967,7 +2967,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "China",
+   "Country": "China",
    "Answer": {
       "q1": 1300,
       "q2": 1500,
@@ -3016,7 +3016,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "China",
+   "Country": "China",
    "Answer": {
       "q1": 130,
       "q2": 200,
@@ -3065,7 +3065,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "China",
+   "Country": "China",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -3114,7 +3114,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Colombia",
+   "Country": "Colombia",
    "Answer": {
       "q1": 30,
       "q2": 35,
@@ -3163,7 +3163,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Colombia",
+   "Country": "Colombia",
    "Answer": {
       "q1": 50,
       "q2": 56,
@@ -3212,7 +3212,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Colombia",
+   "Country": "Colombia",
    "Answer": {
       "q1": 3,
       "q2": 3,
@@ -3261,7 +3261,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Colombia",
+   "Country": "Colombia",
    "Answer": {
       "q1": 47,
       "q2": 75,
@@ -3310,7 +3310,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Colombia",
+   "Country": "Colombia",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -3359,7 +3359,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Colombia",
+   "Country": "Colombia",
    "Answer": {
       "q1": 47,
       "q2": 90,
@@ -3408,7 +3408,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Colombia",
+   "Country": "Colombia",
    "Answer": {
       "q1": 120,
       "q2": 150,
@@ -3457,7 +3457,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Colombia",
+   "Country": "Colombia",
    "Answer": {
       "q1": 35,
       "q2": 40,
@@ -3506,7 +3506,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Colombia",
+   "Country": "Colombia",
    "Answer": {
       "q1": 160,
       "q2": 175,
@@ -3555,7 +3555,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Czech Republic",
+   "Country": "Czech Republic",
    "Answer": {
       "q1": 32,
       "q2": 35,
@@ -3604,7 +3604,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Czech Republic",
+   "Country": "Czech Republic",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -3653,7 +3653,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Czech Republic",
+   "Country": "Czech Republic",
    "Answer": {
       "q1": 10,
       "q2": 12,
@@ -3702,7 +3702,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Czech Republic",
+   "Country": "Czech Republic",
    "Answer": {
       "q1": 1,
       "q2": 2,
@@ -3751,7 +3751,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Czech Republic",
+   "Country": "Czech Republic",
    "Answer": {
       "q1": 90,
       "q2": 110,
@@ -3800,7 +3800,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Czech Republic",
+   "Country": "Czech Republic",
    "Answer": {
       "q1": 1,
       "q2": 1,
@@ -3849,7 +3849,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Czech Republic",
+   "Country": "Czech Republic",
    "Answer": {
       "q1": 11,
       "q2": 22,
@@ -3898,7 +3898,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Czech Republic",
+   "Country": "Czech Republic",
    "Answer": {
       "q1": 9,
       "q2": 12,
@@ -3947,7 +3947,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Czech Republic",
+   "Country": "Czech Republic",
    "Answer": {
       "q1": 8,
       "q2": 15,
@@ -3996,7 +3996,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Denmark",
+   "Country": "Denmark",
    "Answer": {
       "q1": 5,
       "q2": 1,
@@ -4045,7 +4045,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Denmark",
+   "Country": "Denmark",
    "Answer": {
       "q1": 5,
       "q2": 8,
@@ -4094,7 +4094,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Denmark",
+   "Country": "Denmark",
    "Answer": {
       "q1": 7,
       "q2": 7,
@@ -4143,7 +4143,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Denmark",
+   "Country": "Denmark",
    "Answer": {
       "q1": 5,
       "q2": 5,
@@ -4192,7 +4192,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Denmark",
+   "Country": "Denmark",
    "Answer": {
       "q1": 5,
       "q2": 30,
@@ -4241,7 +4241,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Denmark",
+   "Country": "Denmark",
    "Answer": {
       "q1": 6,
       "q2": 10,
@@ -4290,7 +4290,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Denmark",
+   "Country": "Denmark",
    "Answer": {
       "q1": 5,
       "q2": 9,
@@ -4339,7 +4339,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Denmark",
+   "Country": "Denmark",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -4388,7 +4388,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Denmark",
+   "Country": "Denmark",
    "Answer": {
       "q1": 15,
       "q2": 16,
@@ -4437,7 +4437,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "France",
+   "Country": "France",
    "Answer": {
       "q1": 47,
       "q2": 52,
@@ -4486,7 +4486,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "France",
+   "Country": "France",
    "Answer": {
       "q1": 60,
       "q2": 80,
@@ -4535,7 +4535,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "France",
+   "Country": "France",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -4584,7 +4584,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "France",
+   "Country": "France",
    "Answer": {
       "q1": 70,
       "q2": 85,
@@ -4633,7 +4633,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "France",
+   "Country": "France",
    "Answer": {
       "q1": 70,
       "q2": 95,
@@ -4682,7 +4682,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "France",
+   "Country": "France",
    "Answer": {
       "q1": 4,
       "q2": 4,
@@ -4731,7 +4731,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "France",
+   "Country": "France",
    "Answer": {
       "q1": 15,
       "q2": 25,
@@ -4780,7 +4780,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "France",
+   "Country": "France",
    "Answer": {
       "q1": 70,
       "q2": 77,
@@ -4829,7 +4829,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "France",
+   "Country": "France",
    "Answer": {
       "q1": 66,
       "q2": 99,
@@ -4878,7 +4878,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Germany",
+   "Country": "Germany",
    "Answer": {
       "q1": 10,
       "q2": 20,
@@ -4927,7 +4927,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Germany",
+   "Country": "Germany",
    "Answer": {
       "q1": 50,
       "q2": 55,
@@ -4976,7 +4976,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Germany",
+   "Country": "Germany",
    "Answer": {
       "q1": 9,
       "q2": 8,
@@ -5025,7 +5025,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Germany",
+   "Country": "Germany",
    "Answer": {
       "q1": 80,
       "q2": 82,
@@ -5074,7 +5074,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Germany",
+   "Country": "Germany",
    "Answer": {
       "q1": 100,
       "q2": 130,
@@ -5123,7 +5123,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Germany",
+   "Country": "Germany",
    "Answer": {
       "q1": 80,
       "q2": 70,
@@ -5172,7 +5172,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Germany",
+   "Country": "Germany",
    "Answer": {
       "q1": 65,
       "q2": 85,
@@ -5221,7 +5221,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Germany",
+   "Country": "Germany",
    "Answer": {
       "q1": 80,
       "q2": 95,
@@ -5270,7 +5270,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Germany",
+   "Country": "Germany",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -5319,7 +5319,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Great Britain",
+   "Country": "Great Britain",
    "Answer": {
       "q1": 65,
       "q2": 70,
@@ -5368,7 +5368,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Great Britain",
+   "Country": "Great Britain",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -5417,7 +5417,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Great Britain",
+   "Country": "Great Britain",
    "Answer": {
       "q1": 39,
       "q2": 47,
@@ -5466,7 +5466,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Great Britain",
+   "Country": "Great Britain",
    "Answer": {
       "q1": 100,
       "q2": 120,
@@ -5515,7 +5515,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Great Britain",
+   "Country": "Great Britain",
    "Answer": {
       "q1": 10,
       "q2": 10,
@@ -5564,7 +5564,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Great Britain",
+   "Country": "Great Britain",
    "Answer": {
       "q1": 90,
       "q2": 120,
@@ -5613,7 +5613,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Great Britain",
+   "Country": "Great Britain",
    "Answer": {
       "q1": 64,
       "q2": 150,
@@ -5662,7 +5662,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Great Britain",
+   "Country": "Great Britain",
    "Answer": {
       "q1": 65,
       "q2": 72,
@@ -5711,7 +5711,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Great Britain",
+   "Country": "Great Britain",
    "Answer": {
       "q1": 80,
       "q2": 85,
@@ -5760,7 +5760,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hong Kong",
+   "Country": "Hong Kong",
    "Answer": {
       "q1": 9,
       "q2": 10,
@@ -5809,7 +5809,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hong Kong",
+   "Country": "Hong Kong",
    "Answer": {
       "q1": 100,
       "q2": 120,
@@ -5858,7 +5858,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hong Kong",
+   "Country": "Hong Kong",
    "Answer": {
       "q1": 4,
       "q2": 5,
@@ -5907,7 +5907,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hong Kong",
+   "Country": "Hong Kong",
    "Answer": {
       "q1": 90,
       "q2": 95,
@@ -5956,7 +5956,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hong Kong",
+   "Country": "Hong Kong",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -6005,7 +6005,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hong Kong",
+   "Country": "Hong Kong",
    "Answer": {
       "q1": 8,
       "q2": 10,
@@ -6054,7 +6054,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hong Kong",
+   "Country": "Hong Kong",
    "Answer": {
       "q1": 7,
       "q2": 14,
@@ -6103,7 +6103,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hong Kong",
+   "Country": "Hong Kong",
    "Answer": {
       "q1": 8,
       "q2": 10,
@@ -6152,7 +6152,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hong Kong",
+   "Country": "Hong Kong",
    "Answer": {
       "q1": 10,
       "q2": 13,
@@ -6201,7 +6201,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hungary",
+   "Country": "Hungary",
    "Answer": {
       "q1": 9,
       "q2": 11,
@@ -6250,7 +6250,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hungary",
+   "Country": "Hungary",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -6299,7 +6299,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hungary",
+   "Country": "Hungary",
    "Answer": {
       "q1": 60,
       "q2": 58,
@@ -6348,7 +6348,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hungary",
+   "Country": "Hungary",
    "Answer": {
       "q1": 25,
       "q2": 30,
@@ -6397,7 +6397,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hungary",
+   "Country": "Hungary",
    "Answer": {
       "q1": 3,
       "q2": 3,
@@ -6446,7 +6446,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hungary",
+   "Country": "Hungary",
    "Answer": {
       "q1": 10,
       "q2": 15,
@@ -6495,7 +6495,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hungary",
+   "Country": "Hungary",
    "Answer": {
       "q1": 10,
       "q2": 12,
@@ -6544,7 +6544,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hungary",
+   "Country": "Hungary",
    "Answer": {
       "q1": 10,
       "q2": 15,
@@ -6593,7 +6593,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Hungary",
+   "Country": "Hungary",
    "Answer": {
       "q1": 10,
       "q2": 9,
@@ -6642,7 +6642,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "India",
+   "Country": "India",
    "Answer": {
       "q1": 120,
       "q2": 130,
@@ -6691,7 +6691,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "India",
+   "Country": "India",
    "Answer": {
       "q1": 1200,
       "q2": 2000,
@@ -6740,7 +6740,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "India",
+   "Country": "India",
    "Answer": {
       "q1": 1000,
       "q2": 1050,
@@ -6789,7 +6789,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "India",
+   "Country": "India",
    "Answer": {
       "q1": 100,
       "q2": 200,
@@ -6838,7 +6838,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "India",
+   "Country": "India",
    "Answer": {
       "q1": 900,
       "q2": 1400,
@@ -6887,7 +6887,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "India",
+   "Country": "India",
    "Answer": {
       "q1": 5,
       "q2": 6,
@@ -6936,7 +6936,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "India",
+   "Country": "India",
    "Answer": {
       "q1": 2300,
       "q2": 2900,
@@ -6985,7 +6985,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "India",
+   "Country": "India",
    "Answer": {
       "q1": 120,
       "q2": 135,
@@ -7034,7 +7034,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "India",
+   "Country": "India",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -7083,7 +7083,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Indonesia",
+   "Country": "Indonesia",
    "Answer": {
       "q1": 250,
       "q2": 275,
@@ -7132,7 +7132,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Indonesia",
+   "Country": "Indonesia",
    "Answer": {
       "q1": 250,
       "q2": 315,
@@ -7181,7 +7181,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Indonesia",
+   "Country": "Indonesia",
    "Answer": {
       "q1": 68,
       "q2": 85,
@@ -7230,7 +7230,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Indonesia",
+   "Country": "Indonesia",
    "Answer": {
       "q1": 3,
       "q2": 4,
@@ -7279,7 +7279,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Indonesia",
+   "Country": "Indonesia",
    "Answer": {
       "q1": 200,
       "q2": 250,
@@ -7328,7 +7328,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Indonesia",
+   "Country": "Indonesia",
    "Answer": {
       "q1": 350,
       "q2": 500,
@@ -7377,7 +7377,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Indonesia",
+   "Country": "Indonesia",
    "Answer": {
       "q1": 20,
       "q2": 35,
@@ -7426,7 +7426,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Indonesia",
+   "Country": "Indonesia",
    "Answer": {
       "q1": 22,
       "q2": 30,
@@ -7475,7 +7475,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Indonesia",
+   "Country": "Indonesia",
    "Answer": {
       "q1": 250,
       "q2": 275,
@@ -7524,7 +7524,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Israel",
+   "Country": "Israel",
    "Answer": {
       "q1": 7,
       "q2": 5,
@@ -7573,7 +7573,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Israel",
+   "Country": "Israel",
    "Answer": {
       "q1": 8,
       "q2": 10,
@@ -7622,7 +7622,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Israel",
+   "Country": "Israel",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -7671,7 +7671,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Israel",
+   "Country": "Israel",
    "Answer": {
       "q1": 10,
       "q2": 11,
@@ -7720,7 +7720,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Israel",
+   "Country": "Israel",
    "Answer": {
       "q1": 4,
       "q2": 7,
@@ -7769,7 +7769,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Israel",
+   "Country": "Israel",
    "Answer": {
       "q1": 9,
       "q2": 18,
@@ -7818,7 +7818,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Israel",
+   "Country": "Israel",
    "Answer": {
       "q1": 23,
       "q2": 27,
@@ -7867,7 +7867,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Israel",
+   "Country": "Israel",
    "Answer": {
       "q1": 25,
       "q2": 35,
@@ -7916,7 +7916,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Israel",
+   "Country": "Israel",
    "Answer": {
       "q1": 5,
       "q2": 5,
@@ -7965,7 +7965,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Italy",
+   "Country": "Italy",
    "Answer": {
       "q1": 59,
       "q2": 80,
@@ -8014,7 +8014,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Italy",
+   "Country": "Italy",
    "Answer": {
       "q1": 45,
       "q2": 75,
@@ -8063,7 +8063,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Italy",
+   "Country": "Italy",
    "Answer": {
       "q1": 59,
       "q2": 65,
@@ -8112,7 +8112,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Italy",
+   "Country": "Italy",
    "Answer": {
       "q1": 50,
       "q2": 55,
@@ -8161,7 +8161,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Italy",
+   "Country": "Italy",
    "Answer": {
       "q1": 200,
       "q2": 250,
@@ -8210,7 +8210,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Italy",
+   "Country": "Italy",
    "Answer": {
       "q1": 6,
       "q2": 7,
@@ -8259,7 +8259,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Italy",
+   "Country": "Italy",
    "Answer": {
       "q1": 100,
       "q2": 120,
@@ -8308,7 +8308,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Italy",
+   "Country": "Italy",
    "Answer": {
       "q1": 60,
       "q2": 64,
@@ -8357,7 +8357,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Italy",
+   "Country": "Italy",
    "Answer": {
       "q1": 56,
       "q2": 67,
@@ -8406,7 +8406,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Japan",
+   "Country": "Japan",
    "Answer": {
       "q1": 125,
       "q2": 125,
@@ -8455,7 +8455,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Japan",
+   "Country": "Japan",
    "Answer": {
       "q1": 130,
       "q2": 90,
@@ -8504,7 +8504,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Japan",
+   "Country": "Japan",
    "Answer": {
       "q1": 130,
       "q2": 150,
@@ -8553,7 +8553,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Japan",
+   "Country": "Japan",
    "Answer": {
       "q1": 120,
       "q2": 150,
@@ -8602,7 +8602,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Japan",
+   "Country": "Japan",
    "Answer": {
       "q1": 120,
       "q2": 130,
@@ -8651,7 +8651,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Japan",
+   "Country": "Japan",
    "Answer": {
       "q1": 20,
       "q2": 32,
@@ -8700,7 +8700,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Japan",
+   "Country": "Japan",
    "Answer": {
       "q1": 130,
       "q2": 250,
@@ -8749,7 +8749,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Japan",
+   "Country": "Japan",
    "Answer": {
       "q1": 100,
       "q2": 100,
@@ -8798,7 +8798,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Japan",
+   "Country": "Japan",
    "Answer": {
       "q1": 7,
       "q2": 10,
@@ -8847,7 +8847,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Malaysia",
+   "Country": "Malaysia",
    "Answer": {
       "q1": 600,
       "q2": 900,
@@ -8896,7 +8896,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Malaysia",
+   "Country": "Malaysia",
    "Answer": {
       "q1": 34,
       "q2": 37,
@@ -8945,7 +8945,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Malaysia",
+   "Country": "Malaysia",
    "Answer": {
       "q1": 35,
       "q2": 50,
@@ -8994,7 +8994,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Malaysia",
+   "Country": "Malaysia",
    "Answer": {
       "q1": 30,
       "q2": 35,
@@ -9043,7 +9043,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Malaysia",
+   "Country": "Malaysia",
    "Answer": {
       "q1": 30,
       "q2": 35,
@@ -9092,7 +9092,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Malaysia",
+   "Country": "Malaysia",
    "Answer": {
       "q1": 17,
       "q2": 25,
@@ -9141,7 +9141,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Malaysia",
+   "Country": "Malaysia",
    "Answer": {
       "q1": 29,
       "q2": 40,
@@ -9190,7 +9190,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Malaysia",
+   "Country": "Malaysia",
    "Answer": {
       "q1": 27,
       "q2": 35,
@@ -9239,7 +9239,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Malaysia",
+   "Country": "Malaysia",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -9288,7 +9288,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Mexico",
+   "Country": "Mexico",
    "Answer": {
       "q1": 115,
       "q2": 140,
@@ -9337,7 +9337,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Mexico",
+   "Country": "Mexico",
    "Answer": {
       "q1": 55,
       "q2": 70,
@@ -9386,7 +9386,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Mexico",
+   "Country": "Mexico",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -9435,7 +9435,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Mexico",
+   "Country": "Mexico",
    "Answer": {
       "q1": 85,
       "q2": 99,
@@ -9484,7 +9484,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Mexico",
+   "Country": "Mexico",
    "Answer": {
       "q1": 118,
       "q2": 200,
@@ -9533,7 +9533,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Mexico",
+   "Country": "Mexico",
    "Answer": {
       "q1": 100,
       "q2": 150,
@@ -9582,7 +9582,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Mexico",
+   "Country": "Mexico",
    "Answer": {
       "q1": 38,
       "q2": 44,
@@ -9631,7 +9631,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Mexico",
+   "Country": "Mexico",
    "Answer": {
       "q1": 79,
       "q2": 96,
@@ -9680,7 +9680,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Mexico",
+   "Country": "Mexico",
    "Answer": {
       "q1": 12,
       "q2": 13,
@@ -9729,7 +9729,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Montenegro",
+   "Country": "Montenegro",
    "Answer": {
       "q1": 1,
       "q2": 2,
@@ -9778,7 +9778,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Montenegro",
+   "Country": "Montenegro",
    "Answer": {
       "q1": 1,
       "q2": 2,
@@ -9827,7 +9827,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Montenegro",
+   "Country": "Montenegro",
    "Answer": {
       "q1": 5,
       "q2": 4,
@@ -9876,7 +9876,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Montenegro",
+   "Country": "Montenegro",
    "Answer": {
       "q1": 5,
       "q2": 11,
@@ -9925,7 +9925,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Montenegro",
+   "Country": "Montenegro",
    "Answer": {
       "q1": 12,
       "q2": 16,
@@ -9974,7 +9974,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Montenegro",
+   "Country": "Montenegro",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -10023,7 +10023,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Montenegro",
+   "Country": "Montenegro",
    "Answer": {
       "q1": 4,
       "q2": 4,
@@ -10072,7 +10072,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Montenegro",
+   "Country": "Montenegro",
    "Answer": {
       "q1": 1,
       "q2": 2,
@@ -10121,7 +10121,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Montenegro",
+   "Country": "Montenegro",
    "Answer": {
       "q1": 2,
       "q2": 2,
@@ -10170,7 +10170,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Netherlands",
+   "Country": "Netherlands",
    "Answer": {
       "q1": 8,
       "q2": 13,
@@ -10219,7 +10219,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Netherlands",
+   "Country": "Netherlands",
    "Answer": {
       "q1": 17,
       "q2": 1,
@@ -10268,7 +10268,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Netherlands",
+   "Country": "Netherlands",
    "Answer": {
       "q1": 2,
       "q2": 2,
@@ -10317,7 +10317,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Netherlands",
+   "Country": "Netherlands",
    "Answer": {
       "q1": 100,
       "q2": 110,
@@ -10366,7 +10366,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Netherlands",
+   "Country": "Netherlands",
    "Answer": {
       "q1": 17,
       "q2": 18,
@@ -10415,7 +10415,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Netherlands",
+   "Country": "Netherlands",
    "Answer": {
       "q1": 15,
       "q2": 18,
@@ -10464,7 +10464,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Netherlands",
+   "Country": "Netherlands",
    "Answer": {
       "q1": 23,
       "q2": 27,
@@ -10513,7 +10513,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Netherlands",
+   "Country": "Netherlands",
    "Answer": {
       "q1": 18,
       "q2": 24,
@@ -10562,7 +10562,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Netherlands",
+   "Country": "Netherlands",
    "Answer": {
       "q1": 15,
       "q2": 30,
@@ -10611,7 +10611,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Norway",
+   "Country": "Norway",
    "Answer": {
       "q1": 10,
       "q2": 12,
@@ -10660,7 +10660,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Norway",
+   "Country": "Norway",
    "Answer": {
       "q1": 5,
       "q2": 6,
@@ -10709,7 +10709,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Norway",
+   "Country": "Norway",
    "Answer": {
       "q1": 2,
       "q2": 2,
@@ -10758,7 +10758,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Norway",
+   "Country": "Norway",
    "Answer": {
       "q1": 5,
       "q2": 4,
@@ -10807,7 +10807,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Norway",
+   "Country": "Norway",
    "Answer": {
       "q1": 8,
       "q2": 9,
@@ -10856,7 +10856,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Norway",
+   "Country": "Norway",
    "Answer": {
       "q1": 9,
       "q2": 11,
@@ -10905,7 +10905,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Norway",
+   "Country": "Norway",
    "Answer": {
       "q1": 5,
       "q2": 8,
@@ -10954,7 +10954,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Norway",
+   "Country": "Norway",
    "Answer": {
       "q1": 4,
       "q2": 6,
@@ -11003,7 +11003,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Norway",
+   "Country": "Norway",
    "Answer": {
       "q1": 40,
       "q2": 55,
@@ -11052,7 +11052,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Peru",
+   "Country": "Peru",
    "Answer": {
       "q1": 5,
       "q2": 6,
@@ -11101,7 +11101,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Peru",
+   "Country": "Peru",
    "Answer": {
       "q1": 9,
       "q2": 13,
@@ -11150,7 +11150,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Peru",
+   "Country": "Peru",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -11199,7 +11199,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Peru",
+   "Country": "Peru",
    "Answer": {
       "q1": 2,
       "q2": 3,
@@ -11248,7 +11248,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Peru",
+   "Country": "Peru",
    "Answer": {
       "q1": 5,
       "q2": 7,
@@ -11297,7 +11297,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Peru",
+   "Country": "Peru",
    "Answer": {
       "q1": 35,
       "q2": 40,
@@ -11346,7 +11346,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Peru",
+   "Country": "Peru",
    "Answer": {
       "q1": 2,
       "q2": 2,
@@ -11395,7 +11395,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Peru",
+   "Country": "Peru",
    "Answer": {
       "q1": 100,
       "q2": 110,
@@ -11444,7 +11444,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Peru",
+   "Country": "Peru",
    "Answer": {
       "q1": 33,
       "q2": 38,
@@ -11493,7 +11493,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Philippines",
+   "Country": "Philippines",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -11542,7 +11542,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Philippines",
+   "Country": "Philippines",
    "Answer": {
       "q1": 180,
       "q2": 200,
@@ -11591,7 +11591,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Philippines",
+   "Country": "Philippines",
    "Answer": {
       "q1": 11,
       "q2": 20,
@@ -11640,7 +11640,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Philippines",
+   "Country": "Philippines",
    "Answer": {
       "q1": 5,
       "q2": 5,
@@ -11689,7 +11689,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Philippines",
+   "Country": "Philippines",
    "Answer": {
       "q1": 5,
       "q2": 6,
@@ -11738,7 +11738,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Philippines",
+   "Country": "Philippines",
    "Answer": {
       "q1": 55,
       "q2": 60,
@@ -11787,7 +11787,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Philippines",
+   "Country": "Philippines",
    "Answer": {
       "q1": 98,
       "q2": 150,
@@ -11836,7 +11836,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Philippines",
+   "Country": "Philippines",
    "Answer": {
       "q1": 110,
       "q2": 125,
@@ -11885,7 +11885,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Philippines",
+   "Country": "Philippines",
    "Answer": {
       "q1": 220,
       "q2": 250,
@@ -11934,7 +11934,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Poland",
+   "Country": "Poland",
    "Answer": {
       "q1": 18,
       "q2": 22,
@@ -11983,7 +11983,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Poland",
+   "Country": "Poland",
    "Answer": {
       "q1": 50,
       "q2": 55,
@@ -12032,7 +12032,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Poland",
+   "Country": "Poland",
    "Answer": {
       "q1": 34,
       "q2": 40,
@@ -12081,7 +12081,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Poland",
+   "Country": "Poland",
    "Answer": {
       "q1": 60,
       "q2": 65,
@@ -12130,7 +12130,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Poland",
+   "Country": "Poland",
    "Answer": {
       "q1": 38,
       "q2": 50,
@@ -12179,7 +12179,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Poland",
+   "Country": "Poland",
    "Answer": {
       "q1": 3,
       "q2": 3,
@@ -12228,7 +12228,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Poland",
+   "Country": "Poland",
    "Answer": {
       "q1": 31,
       "q2": 40,
@@ -12277,7 +12277,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Poland",
+   "Country": "Poland",
    "Answer": {
       "q1": 40,
       "q2": 42,
@@ -12326,7 +12326,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Poland",
+   "Country": "Poland",
    "Answer": {
       "q1": 45,
       "q2": 60,
@@ -12375,7 +12375,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Russia",
+   "Country": "Russia",
    "Answer": {
       "q1": 175,
       "q2": 150,
@@ -12424,7 +12424,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Russia",
+   "Country": "Russia",
    "Answer": {
       "q1": 300,
       "q2": 350,
@@ -12473,7 +12473,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Russia",
+   "Country": "Russia",
    "Answer": {
       "q1": 140,
       "q2": 150,
@@ -12522,7 +12522,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Russia",
+   "Country": "Russia",
    "Answer": {
       "q1": 250,
       "q2": 300,
@@ -12571,7 +12571,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Russia",
+   "Country": "Russia",
    "Answer": {
       "q1": 150,
       "q2": 165,
@@ -12620,7 +12620,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Russia",
+   "Country": "Russia",
    "Answer": {
       "q1": 10,
       "q2": 12,
@@ -12669,7 +12669,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Russia",
+   "Country": "Russia",
    "Answer": {
       "q1": 100,
       "q2": 150,
@@ -12718,7 +12718,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Russia",
+   "Country": "Russia",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -12767,7 +12767,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Russia",
+   "Country": "Russia",
    "Answer": {
       "q1": 140,
       "q2": 150,
@@ -12816,7 +12816,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Serbia",
+   "Country": "Serbia",
    "Answer": {
       "q1": 7,
       "q2": 14,
@@ -12865,7 +12865,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Serbia",
+   "Country": "Serbia",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -12914,7 +12914,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Serbia",
+   "Country": "Serbia",
    "Answer": {
       "q1": 10,
       "q2": 12,
@@ -12963,7 +12963,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Serbia",
+   "Country": "Serbia",
    "Answer": {
       "q1": 25,
       "q2": 40,
@@ -13012,7 +13012,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Serbia",
+   "Country": "Serbia",
    "Answer": {
       "q1": 50,
       "q2": 55,
@@ -13061,7 +13061,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Serbia",
+   "Country": "Serbia",
    "Answer": {
       "q1": 2,
       "q2": 3,
@@ -13110,7 +13110,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Serbia",
+   "Country": "Serbia",
    "Answer": {
       "q1": 60,
       "q2": 70,
@@ -13159,7 +13159,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Serbia",
+   "Country": "Serbia",
    "Answer": {
       "q1": 7,
       "q2": 91,
@@ -13208,7 +13208,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Serbia",
+   "Country": "Serbia",
    "Answer": {
       "q1": 9,
       "q2": 11,
@@ -13257,7 +13257,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Singapore",
+   "Country": "Singapore",
    "Answer": {
       "q1": 5,
       "q2": 12,
@@ -13306,7 +13306,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Singapore",
+   "Country": "Singapore",
    "Answer": {
       "q1": 6,
       "q2": 8,
@@ -13355,7 +13355,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Singapore",
+   "Country": "Singapore",
    "Answer": {
       "q1": 6,
       "q2": 5,
@@ -13404,7 +13404,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Singapore",
+   "Country": "Singapore",
    "Answer": {
       "q1": 6,
       "q2": 10,
@@ -13453,7 +13453,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Singapore",
+   "Country": "Singapore",
    "Answer": {
       "q1": 3,
       "q2": 4,
@@ -13502,7 +13502,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Singapore",
+   "Country": "Singapore",
    "Answer": {
       "q1": 27,
       "q2": 33,
@@ -13551,7 +13551,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Singapore",
+   "Country": "Singapore",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -13600,7 +13600,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Singapore",
+   "Country": "Singapore",
    "Answer": {
       "q1": 125,
       "q2": 260,
@@ -13649,7 +13649,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Singapore",
+   "Country": "Singapore",
    "Answer": {
       "q1": 9,
       "q2": 8,
@@ -13698,7 +13698,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Africa",
+   "Country": "South Africa",
    "Answer": {
       "q1": 50,
       "q2": 55,
@@ -13747,7 +13747,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Africa",
+   "Country": "South Africa",
    "Answer": {
       "q1": 150,
       "q2": 175,
@@ -13796,7 +13796,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Africa",
+   "Country": "South Africa",
    "Answer": {
       "q1": 50,
       "q2": 57,
@@ -13845,7 +13845,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Africa",
+   "Country": "South Africa",
    "Answer": {
       "q1": 55,
       "q2": 70,
@@ -13894,7 +13894,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Africa",
+   "Country": "South Africa",
    "Answer": {
       "q1": 50,
       "q2": 67,
@@ -13943,7 +13943,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Africa",
+   "Country": "South Africa",
    "Answer": {
       "q1": 5,
       "q2": 8,
@@ -13992,7 +13992,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Africa",
+   "Country": "South Africa",
    "Answer": {
       "q1": 4,
       "q2": 5,
@@ -14041,7 +14041,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Africa",
+   "Country": "South Africa",
    "Answer": {
       "q1": 10,
       "q2": 25,
@@ -14090,7 +14090,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Africa",
+   "Country": "South Africa",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -14139,7 +14139,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Korea",
+   "Country": "South Korea",
    "Answer": {
       "q1": 60,
       "q2": 79,
@@ -14188,7 +14188,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Korea",
+   "Country": "South Korea",
    "Answer": {
       "q1": 7,
       "q2": 9,
@@ -14237,7 +14237,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Korea",
+   "Country": "South Korea",
    "Answer": {
       "q1": 99999,
       "q2": 99999,
@@ -14286,7 +14286,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Korea",
+   "Country": "South Korea",
    "Answer": {
       "q1": 55,
       "q2": 65,
@@ -14335,7 +14335,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Korea",
+   "Country": "South Korea",
    "Answer": {
       "q1": 70,
       "q2": 100,
@@ -14384,7 +14384,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Korea",
+   "Country": "South Korea",
    "Answer": {
       "q1": 150,
       "q2": 200,
@@ -14433,7 +14433,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Korea",
+   "Country": "South Korea",
    "Answer": {
       "q1": 30,
       "q2": 45,
@@ -14482,7 +14482,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Korea",
+   "Country": "South Korea",
    "Answer": {
       "q1": 16,
       "q2": 20,
@@ -14531,7 +14531,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "South Korea",
+   "Country": "South Korea",
    "Answer": {
       "q1": 20,
       "q2": 20,
@@ -14580,7 +14580,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Spain",
+   "Country": "Spain",
    "Answer": {
       "q1": 16,
       "q2": 20,
@@ -14629,7 +14629,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Spain",
+   "Country": "Spain",
    "Answer": {
       "q1": 45,
       "q2": 55,
@@ -14678,7 +14678,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Spain",
+   "Country": "Spain",
    "Answer": {
       "q1": 50,
       "q2": 45,
@@ -14727,7 +14727,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Spain",
+   "Country": "Spain",
    "Answer": {
       "q1": 45,
       "q2": 50,
@@ -14776,7 +14776,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Spain",
+   "Country": "Spain",
    "Answer": {
       "q1": 35,
       "q2": 40,
@@ -14825,7 +14825,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Spain",
+   "Country": "Spain",
    "Answer": {
       "q1": 46,
       "q2": 80,
@@ -14874,7 +14874,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Spain",
+   "Country": "Spain",
    "Answer": {
       "q1": 47,
       "q2": 45,
@@ -14923,7 +14923,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Spain",
+   "Country": "Spain",
    "Answer": {
       "q1": 2,
       "q2": 3,
@@ -14972,7 +14972,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Spain",
+   "Country": "Spain",
    "Answer": {
       "q1": 80,
       "q2": 100,
@@ -15021,7 +15021,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Sweden",
+   "Country": "Sweden",
    "Answer": {
       "q1": 10,
       "q2": 12,
@@ -15070,7 +15070,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Sweden",
+   "Country": "Sweden",
    "Answer": {
       "q1": 10,
       "q2": 12,
@@ -15119,7 +15119,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Sweden",
+   "Country": "Sweden",
    "Answer": {
       "q1": 67,
       "q2": 80,
@@ -15168,7 +15168,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Sweden",
+   "Country": "Sweden",
    "Answer": {
       "q1": 8,
       "q2": 12,
@@ -15217,7 +15217,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Sweden",
+   "Country": "Sweden",
    "Answer": {
       "q1": 3,
       "q2": 3,
@@ -15266,7 +15266,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Sweden",
+   "Country": "Sweden",
    "Answer": {
       "q1": 13,
       "q2": 17,
@@ -15315,7 +15315,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Sweden",
+   "Country": "Sweden",
    "Answer": {
       "q1": 40,
       "q2": 45,
@@ -15364,7 +15364,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Sweden",
+   "Country": "Sweden",
    "Answer": {
       "q1": 10,
       "q2": 11,
@@ -15413,7 +15413,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Sweden",
+   "Country": "Sweden",
    "Answer": {
       "q1": 60,
       "q2": 40,
@@ -15462,7 +15462,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Taiwan",
+   "Country": "Taiwan",
    "Answer": {
       "q1": 25,
       "q2": 31,
@@ -15511,7 +15511,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Taiwan",
+   "Country": "Taiwan",
    "Answer": {
       "q1": 300,
       "q2": 360,
@@ -15560,7 +15560,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Taiwan",
+   "Country": "Taiwan",
    "Answer": {
       "q1": 150,
       "q2": 200,
@@ -15609,7 +15609,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Taiwan",
+   "Country": "Taiwan",
    "Answer": {
       "q1": 25,
       "q2": 30,
@@ -15658,7 +15658,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Taiwan",
+   "Country": "Taiwan",
    "Answer": {
       "q1": 23,
       "q2": 32,
@@ -15707,7 +15707,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Taiwan",
+   "Country": "Taiwan",
    "Answer": {
       "q1": 23,
       "q2": 40,
@@ -15756,7 +15756,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Taiwan",
+   "Country": "Taiwan",
    "Answer": {
       "q1": 20,
       "q2": 25,
@@ -15805,7 +15805,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Taiwan",
+   "Country": "Taiwan",
    "Answer": {
       "q1": 95,
       "q2": 100,
@@ -15854,7 +15854,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Taiwan",
+   "Country": "Taiwan",
    "Answer": {
       "q1": 15,
       "q2": 20,
@@ -15903,7 +15903,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Thailand",
+   "Country": "Thailand",
    "Answer": {
       "q1": 60,
       "q2": 69,
@@ -15952,7 +15952,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Thailand",
+   "Country": "Thailand",
    "Answer": {
       "q1": 59,
       "q2": 99,
@@ -16001,7 +16001,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Thailand",
+   "Country": "Thailand",
    "Answer": {
       "q1": 65,
       "q2": 72,
@@ -16050,7 +16050,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Thailand",
+   "Country": "Thailand",
    "Answer": {
       "q1": 1,
       "q2": 2,
@@ -16099,7 +16099,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Thailand",
+   "Country": "Thailand",
    "Answer": {
       "q1": 70,
       "q2": 75,
@@ -16148,7 +16148,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Thailand",
+   "Country": "Thailand",
    "Answer": {
       "q1": 2,
       "q2": 3,
@@ -16197,7 +16197,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Thailand",
+   "Country": "Thailand",
    "Answer": {
       "q1": 67,
       "q2": 95,
@@ -16246,7 +16246,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Thailand",
+   "Country": "Thailand",
    "Answer": {
       "q1": 17,
       "q2": 23,
@@ -16295,7 +16295,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Thailand",
+   "Country": "Thailand",
    "Answer": {
       "q1": 450,
       "q2": 600,
@@ -16344,7 +16344,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Turkey",
+   "Country": "Turkey",
    "Answer": {
       "q1": 5,
       "q2": 15,
@@ -16393,7 +16393,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Turkey",
+   "Country": "Turkey",
    "Answer": {
       "q1": 30,
       "q2": 35,
@@ -16442,7 +16442,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Turkey",
+   "Country": "Turkey",
    "Answer": {
       "q1": 55,
       "q2": 70,
@@ -16491,7 +16491,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Turkey",
+   "Country": "Turkey",
    "Answer": {
       "q1": 5,
       "q2": 6,
@@ -16540,7 +16540,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Turkey",
+   "Country": "Turkey",
    "Answer": {
       "q1": 50,
       "q2": 55,
@@ -16589,7 +16589,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Turkey",
+   "Country": "Turkey",
    "Answer": {
       "q1": 400,
       "q2": 500,
@@ -16638,7 +16638,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Turkey",
+   "Country": "Turkey",
    "Answer": {
       "q1": 75,
       "q2": 80,
@@ -16687,7 +16687,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Turkey",
+   "Country": "Turkey",
    "Answer": {
       "q1": 5,
       "q2": 8,
@@ -16736,7 +16736,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Turkey",
+   "Country": "Turkey",
    "Answer": {
       "q1": 70,
       "q2": 80,
@@ -16785,7 +16785,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "USA",
+   "Country": "USA",
    "Answer": {
       "q1": 350,
       "q2": 400,
@@ -16834,7 +16834,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "USA",
+   "Country": "USA",
    "Answer": {
       "q1": 60,
       "q2": 65,
@@ -16883,7 +16883,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "USA",
+   "Country": "USA",
    "Answer": {
       "q1": 300,
       "q2": 350,
@@ -16932,7 +16932,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "USA",
+   "Country": "USA",
    "Answer": {
       "q1": 12,
       "q2": 13,
@@ -16981,7 +16981,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "USA",
+   "Country": "USA",
    "Answer": {
       "q1": 500,
       "q2": 600,
@@ -17030,7 +17030,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "USA",
+   "Country": "USA",
    "Answer": {
       "q1": 330,
       "q2": 400,
@@ -17079,7 +17079,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "USA",
+   "Country": "USA",
    "Answer": {
       "q1": 300,
       "q2": 350,
@@ -17128,7 +17128,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "USA",
+   "Country": "USA",
    "Answer": {
       "q1": 310,
       "q2": 650,
@@ -17177,7 +17177,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "USA",
+   "Country": "USA",
    "Answer": {
       "q1": 60,
       "q2": 99,
@@ -17226,7 +17226,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Vietnam",
+   "Country": "Vietnam",
    "Answer": {
       "q1": 85,
       "q2": 95,
@@ -17275,7 +17275,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Vietnam",
+   "Country": "Vietnam",
    "Answer": {
       "q1": 55,
       "q2": 75,
@@ -17324,7 +17324,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Vietnam",
+   "Country": "Vietnam",
    "Answer": {
       "q1": 500,
       "q2": 750,
@@ -17373,7 +17373,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Vietnam",
+   "Country": "Vietnam",
    "Answer": {
       "q1": 80,
       "q2": 160,
@@ -17422,7 +17422,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Vietnam",
+   "Country": "Vietnam",
    "Answer": {
       "q1": 90,
       "q2": 125,
@@ -17471,7 +17471,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Vietnam",
+   "Country": "Vietnam",
    "Answer": {
       "q1": 89,
       "q2": 100,
@@ -17520,7 +17520,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Vietnam",
+   "Country": "Vietnam",
    "Answer": {
       "q1": 2,
       "q2": 2,
@@ -17569,7 +17569,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Vietnam",
+   "Country": "Vietnam",
    "Answer": {
       "q1": 90,
       "q2": 100,
@@ -17618,7 +17618,7 @@
    "LifetimeApprovalRate": "0% (0/0)",
    "Last30DaysApprovalRate": "0% (0/0)",
    "Last7DaysApprovalRate": "0% (0/0)",
-   "Input.country": "Vietnam",
+   "Country": "Vietnam",
    "Answer": {
       "q1": 90,
       "q2": 100,

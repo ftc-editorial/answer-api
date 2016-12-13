@@ -50,8 +50,7 @@ module.exports = async function seedPerils() {
           submitted: new Date('2016-12-09T00:00:00'),
           metadata: r,
         },
-      }).spread(inst => inst)).setQuestion(q)
-    )));
+      }).spread(inst => inst)).setQuestion(q))));
   } catch (e) {
     console.error(e);
   }
