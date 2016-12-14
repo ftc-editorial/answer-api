@@ -28,11 +28,12 @@ getCountries().then((projects) => {
   projects.forEach((p) => {
     p.countries.forEach(async (c) => {
       const agg = await getAggregate(p.id, 'Country', c);
-      const prefix = `/v1/ft-interactive/answer-api/${p.id}/`;
+      const prefix = `v1/ft-interactive/answer-api/${p.id}/`;
       const Key = `${prefix}${p.id}__${slugify(p.title)}__${slugify(c)}.json`;
       s3.putObject({
         Bucket: process.env.BUCKET_NAME_PROD,
         Key,
+        ACL: 'public-read',
         Body: JSON.stringify(agg),
       }, (err, res) => {
         console.dir(res);
