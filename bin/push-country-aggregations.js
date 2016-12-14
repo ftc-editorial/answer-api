@@ -34,9 +34,9 @@ getCountries().then((projects) => {
         Bucket: process.env.BUCKET_NAME_PROD,
         Key,
         Body: JSON.stringify(agg),
-      }, (err) => {
-        if (err) console.error(err);
-        else console.info(`Wrote ${Key}`);
+      }, (err, res) => {
+        console.dir(res);
+        console.log(err);
       });
     });
   });
