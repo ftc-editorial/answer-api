@@ -39,11 +39,11 @@
     "pg": "^6.1.0",
     "pg-hstore": "^2.3.2",
     "sequelize": "^3.27.0",
-    "voca": "^1.0.0"
+    "voca": "^1.0.0",
+    "d3-dsv": "^1.0.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "d3-dsv": "^1.0.3",
     "mocha": "latest",
     "nodemon": "^1.11.0",
     "proxyquire": "^1.7.10",
