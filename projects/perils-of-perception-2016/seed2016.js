@@ -38,7 +38,7 @@ module.exports = async function seedPerils() {
 
     return BATCH_2622312_DATA.filter(r => !r.reject).map(async r => await Promise.all(
       qs.map(async (q) => {
-        const qNum = q.title.match(/Q(\d{1,2})\.\s/)[1];
+        const qNum = q.text.match(/Q(\d{1,2})\.\s/)[1];
         let i;
         switch (qNum) {
           case '1':
