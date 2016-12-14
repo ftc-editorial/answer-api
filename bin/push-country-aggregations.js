@@ -1,8 +1,10 @@
 #!/usr/local/env node
 
-const Project = require('../lib/api/project/model');
 const { S3 } = require('aws-sdk');
 const { slugify } = require('voca');
+
+const getAggregate = require('../lib/api/project/controller.aggregate');
+const Project = require('../lib/api/project/model');
 
 const s3 = new S3({
   accessKeyId: process.env.AWS_KEY_PROD,
@@ -22,7 +24,7 @@ async function getCountries() {
     countries: Object.keys(d.questions[0].answer),
   }));
 }
-const getAggregate = require('../lib/api/project/controller.aggregate');
+
 
 getCountries().then((projects) => {
   projects.forEach((p) => {
