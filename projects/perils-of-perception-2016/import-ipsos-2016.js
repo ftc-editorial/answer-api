@@ -48,11 +48,13 @@ module.exports = function parseIpsosCSV() {
       answers = d.filter(i => i.join('') !== '').slice(2);
     }
 
+    const qid = Number(text.match(/^Q(\d{1,2})\.\s/i)[1]);
+    const options = qid < 2 ? [0, 99999] : [0, 100];
 
     return {
       text,
       answer: answers,
-      options: null,
+      options,
       meta,
     };
   });
