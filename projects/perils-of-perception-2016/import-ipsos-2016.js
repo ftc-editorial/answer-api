@@ -49,7 +49,7 @@ module.exports = function parseIpsosCSV() {
     }
 
     const qid = Number(text.match(/^Q(\d{1,2})\.\s/i)[1]);
-    const options = qid < 2 ? [0, 99999] : [0, 100];
+    const options = qid < 3 ? [0, 99999] : [0, 100];
 
     return {
       text,
