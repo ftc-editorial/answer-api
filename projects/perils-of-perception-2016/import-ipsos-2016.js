@@ -25,21 +25,29 @@ module.exports = function parseIpsosCSV() {
   .map((d) => {
     const text = d[0].shift();
     const countries = (() => { d[1].shift(); return d[1]; })();
-    const countryMedians = (() => { d[2].shift(); return d[2]; })()
-      .reduce((last, curr, i) => {
+    let meta;
+    let answers;
+
+    if (['Median', 'Mean'].indexOf(d[2][0]) > -1) {
+      const header = d[2].shift();
+      const countryResults = d[2].reduce((last, curr, i) => {
         last[countries[i]] = curr;
         return last;
       }, {});
 
-    const answers = (() => { d[3].shift(); return d[3]; })()
-      .reduce((last, curr, i) => {
-        last[countries[i]] = curr;
-        return last;
-      }, {});
+      meta = {
+        [header]: countryResults,
+      };
 
-    const meta = {
-      median: countryMedians,
-    };
+      answers = (() => { d[3].shift(); return d[3]; })()
+        .reduce((last, curr, i) => {
+          last[countries[i]] = curr;
+          return last;
+        }, {});
+    } else { // Is survey question
+      answers = d.filter(i => i.join('') !== '').slice(2);
+    }
+
 
     return {
       text,
