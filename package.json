@@ -40,6 +40,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
+    "d3-dsv": "^1.0.3",
     "mocha": "latest",
     "nodemon": "^1.11.0",
     "proxyquire": "^1.7.10",

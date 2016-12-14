@@ -4,10 +4,8 @@
 
 const Project = require('../../lib/api/project/model');
 const Question = require('../../lib/api/question/model');
-const Response = require('../../lib/api/response/model');
 
-const BATCH_2622312_DATA = require('././Batch_2622312_batch_results.json');
-const SURVEY_QUESTIONS = require('./questions-2015.json');
+const SURVEY_QUESTIONS = require('./import-ipsos-2016')();
 
 module.exports = async function seedPerils() {
   try {
@@ -22,37 +20,19 @@ module.exports = async function seedPerils() {
       },
     }).spread(i => i);
 
-    const qs = await Promise.all(
+    return await Promise.all(
       SURVEY_QUESTIONS.map(async q => await (
           await Question.findCreateFind({
             where: {
               text: q.text,
               projectId: p.id,
             },
-            defaults: {
-              text: q.text,
-              answer: q.answer,
-              options: q.options,
-              meta: q.meta,
-            },
+            defaults: q,
           })
           .spread(i => i))
         .setProject(p)
       )
     );
-
-    return BATCH_2622312_DATA.filter(r => !r.reject).map(async r => await Promise.all(
-      qs.map(async (q, i) => await (await Response.findCreateFind({
-        where: {
-          'meta.HITId': r.HITId,
-          questionId: q.id,
-        },
-        defaults: {
-          value: r.Answer[`q${i + 1}`],
-          submitted: new Date('2016-12-09T00:00:00'),
-          meta: r,
-        },
-      }).spread(inst => inst)).setQuestion(q))));
   } catch (e) {
     console.error(e);
   }
